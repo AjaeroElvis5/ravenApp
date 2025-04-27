@@ -66,7 +66,7 @@ const Otps = () => {
 
   return (
     <div className="pin-container">
-      <h2>Verify phone number</h2>
+      <h2>Verify Email Address</h2>
       <p>
         A 6 digit Otp was shared to your registered Email Address. Input here to
         continue
